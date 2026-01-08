@@ -18,7 +18,7 @@
 
 ## NPU.
 
-- To get the NPU working, see [How to Enable the NPU on the Radxa Zero 3](https://github.com/Qengineering/Radxa-Zero-3-NPU-Ubuntu22/wiki).
+- To get the NPU working, see [How to Enable the NPU on the Radxa Zero 3](https://github.com/Qengineering/Radxa-Zero-3-NPU-Ubuntu24/wiki).
 ------------
 
 ## Model performance benchmark(FPS)
