@@ -88,6 +88,7 @@ The actual CPU core is located at the centre of the chip, where the heat is gene
 
 ## Pre-installed frameworks.
 
+- Ubuntu 24.04 kernel 6.1.0-1027-rockchip.
 - [rtop](https://github.com/Qengineering/rtop-Ubuntu) 1.3.0
 - [OpenCV](https://qengineering.eu/deep-learning-with-opencv-on-raspberry-pi-4.html) 4.13.0
 - NPU [rknpu2](https://github.com/airockchip/rknn-toolkit2/tree/master/rknpu2) 1.5.2
